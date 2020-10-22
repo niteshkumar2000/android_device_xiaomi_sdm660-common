@@ -325,7 +325,7 @@ PRODUCT_PACKAGES += \
     qcom.fmradio.xml
 
 PRODUCT_BOOT_JARS += \
-    qcom.fmradio
+#    qcom.fmradio
 endif
 
 # Ion
